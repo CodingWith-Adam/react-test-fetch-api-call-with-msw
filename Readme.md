@@ -4,5 +4,5 @@ In this video we are going to learn how to test a react component that uses a re
 
 YouTube
 
-Mock Service Worker
+Mock Service Worker(MSW)
 https://mswjs.io/
